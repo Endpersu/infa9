@@ -75,10 +75,8 @@
 4) ![image](https://github.com/user-attachments/assets/329407c2-8b3e-4032-99a6-f659dc72235f)
 5) ![image](https://github.com/user-attachments/assets/9bdea198-bbdc-4e2d-afc6-abd7b603a969)
 6) ![image](https://github.com/user-attachments/assets/d34374a8-e26c-4907-bdbd-116a565a61d2)
-
 RS‐триггер на двух элементах «И‐НЕ»
 7) ![image](https://github.com/user-attachments/assets/9ef217c6-15a5-452a-a14d-7cb2a27db8ad)
-
 D‐триггер
 
 
