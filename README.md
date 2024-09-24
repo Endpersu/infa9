@@ -77,6 +77,9 @@
 6) ![image](https://github.com/user-attachments/assets/d34374a8-e26c-4907-bdbd-116a565a61d2)
 
 RS‐триггер на двух элементах «И‐НЕ»
-7) -
+7) ![image](https://github.com/user-attachments/assets/9ef217c6-15a5-452a-a14d-7cb2a27db8ad)
+
+D‐триггер
+
 
    
